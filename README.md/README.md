@@ -54,7 +54,7 @@ Simular um cenário realista de audiência de portal de notícias, distribuindo 
 ![Dashboard Preview](/images/dashboard_preview.png)
 
 
-Insights gerados
+###### Insights gerados
 
 
 
